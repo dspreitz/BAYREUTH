@@ -1,0 +1,45 @@
+<Task type="RT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
+  <Point type="Start">
+    <Waypoint name="Bayreuth" id="0" comment="EDQD 127.525" altitude="482.0">
+      <Location longitude="11.6411111" latitude="49.9852778"/>
+    </Waypoint>
+    <ObservationZone type="Line" length="20000.0"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="175TRO" id="0" comment="" altitude="560.0">
+      <Location longitude="11.9327833" latitude="50.0208333"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="163SOS" id="0" comment="" altitude="670.0">
+      <Location longitude="12.55" latitude="49.5063833"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="139REG" id="0" comment="" altitude="396.0">
+      <Location longitude="12.08195" latitude="49.14195"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="074FUR" id="0" comment="" altitude="424.0">
+      <Location longitude="12.8427833" latitude="49.3127833"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="117MRW" id="0" comment="" altitude="542.0">
+      <Location longitude="12.0888833" latitude="50.0083333"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Finish">
+    <Waypoint name="001BTH" id="0" comment="" altitude="478.0">
+      <Location longitude="11.6386167" latitude="49.98445"/>
+    </Waypoint>
+    <ObservationZone type="Line" length="1000.0"/>
+  </Point>
+</Task>
+
